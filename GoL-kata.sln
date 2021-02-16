@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoL-kata", "GoL-kata\GoL-kata.csproj", "{63CF2D84-6F7D-42DF-AEEA-9978B3ACEE74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoL-testing", "GoL-testing\GoL-testing.csproj", "{D4DE6899-7FCE-4527-B368-BBE26C2DF171}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63CF2D84-6F7D-42DF-AEEA-9978B3ACEE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CF2D84-6F7D-42DF-AEEA-9978B3ACEE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CF2D84-6F7D-42DF-AEEA-9978B3ACEE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CF2D84-6F7D-42DF-AEEA-9978B3ACEE74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4DE6899-7FCE-4527-B368-BBE26C2DF171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4DE6899-7FCE-4527-B368-BBE26C2DF171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4DE6899-7FCE-4527-B368-BBE26C2DF171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4DE6899-7FCE-4527-B368-BBE26C2DF171}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

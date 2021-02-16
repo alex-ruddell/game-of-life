@@ -1,0 +1,12 @@
+/Users/Alex.Ruddell/Documents/GoL-kata/GoL-kata/bin/Debug/netcoreapp3.1/GoL-kata.deps.json
+/Users/Alex.Ruddell/Documents/GoL-kata/GoL-kata/bin/Debug/netcoreapp3.1/GoL-kata.runtimeconfig.json
+/Users/Alex.Ruddell/Documents/GoL-kata/GoL-kata/bin/Debug/netcoreapp3.1/GoL-kata.runtimeconfig.dev.json
+/Users/Alex.Ruddell/Documents/GoL-kata/GoL-kata/bin/Debug/netcoreapp3.1/GoL-kata.dll
+/Users/Alex.Ruddell/Documents/GoL-kata/GoL-kata/bin/Debug/netcoreapp3.1/GoL-kata.pdb
+/Users/Alex.Ruddell/Documents/GoL-kata/GoL-kata/obj/Debug/netcoreapp3.1/GoL-kata.csprojAssemblyReference.cache
+/Users/Alex.Ruddell/Documents/GoL-kata/GoL-kata/obj/Debug/netcoreapp3.1/GoL-kata.AssemblyInfoInputs.cache
+/Users/Alex.Ruddell/Documents/GoL-kata/GoL-kata/obj/Debug/netcoreapp3.1/GoL-kata.AssemblyInfo.cs
+/Users/Alex.Ruddell/Documents/GoL-kata/GoL-kata/obj/Debug/netcoreapp3.1/GoL-kata.csproj.CoreCompileInputs.cache
+/Users/Alex.Ruddell/Documents/GoL-kata/GoL-kata/obj/Debug/netcoreapp3.1/GoL-kata.dll
+/Users/Alex.Ruddell/Documents/GoL-kata/GoL-kata/obj/Debug/netcoreapp3.1/GoL-kata.pdb
+/Users/Alex.Ruddell/Documents/GoL-kata/GoL-kata/obj/Debug/netcoreapp3.1/GoL-kata.genruntimeconfig.cache
